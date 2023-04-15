@@ -1,0 +1,31 @@
+.background {
+    position: absolute;
+    width: 1600px;
+    height: 862px;
+    left: 0;
+    top: 0;
+    background: #F2CEDA
+    }
+.container {
+position: absolute;
+width: 1125px;
+height: 79px;
+left: 245px;
+top: 10px;
+}
+p {
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 245px;
+    top: 10px;
+    background: url(/images/eep88j2SDJ-removebg-preview\ 1.png)
+    }
+    
+    p {
+    position: absolute;
+    width: 41px;
+    height: 18px;
+    left: 590px;
+    top: 41px;
+    }
